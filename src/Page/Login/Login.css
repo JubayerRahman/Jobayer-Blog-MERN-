@@ -1,0 +1,8 @@
+.auth form{
+    background-color: rgb(18, 247, 214, 20%);
+} 
+#seePass{
+    accent-color: rgb(18, 247, 214);
+   height: 20px; 
+   width: 20px;
+}
