@@ -15,5 +15,6 @@ Here are some features I tried to add to this project:
 this is an ongoing project. so, I may add various features in the future as well.
 
 ## [Jobayer Blogs](https://jobayer-blogs.web.app/)
+## [Jobayer Blog Server Link](https://github.com/JubayerRahman/Jobayer-Blog-MERN-Server)
 ![Layout](./public/layout.png)
 
