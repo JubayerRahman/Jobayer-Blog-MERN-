@@ -24,7 +24,8 @@ const HeroSection = () => {
             </div>
             <div className='flex items-center justify-center mb-[20px] pt-[10px]'>
                 <a href={cv} download>
-                <button className='items-center btn bg-[white] hover:bg-[white] rounded-2xl text-black  md:w-[60%]'>Download CV <i className="fa-solid fa-arrow-down"></i></button>
+                <button 
+                className='items-center btn bg-[white] flex hover:bg-[white] rounded-2xl text-black '>Download CV <i className="fa-solid fa-arrow-down"></i></button>
                 </a>
             </div>
         </div>
@@ -53,7 +54,9 @@ const HeroSection = () => {
                 </p>
             </div>
             <div>
+            <a href='mailto:jubayerr398@gmail.com'>
             <p className='SpecialFont text-[#12F7D6] text-[26px]'>Let's Talk <i className="fa-regular fa-envelope"></i></p>
+            </a>
             </div>
         </div>
     </div>
