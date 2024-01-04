@@ -14,6 +14,9 @@ body{
   min-height: 100vh;
   color: white;
 }
+.blogP{
+  white-space: pre-line;
+}
 
 .SpecialFont{
   font-family: 'IBM Plex Mono', monospace;

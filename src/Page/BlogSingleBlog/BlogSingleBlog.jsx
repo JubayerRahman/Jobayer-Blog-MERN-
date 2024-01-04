@@ -66,7 +66,7 @@ const BlogSingleBlog = () => {
                 </WhatsappShareButton>
                 </div>
             </div>
-            <p>{blog.blogData}</p>
+            <p className='blogP'>{blog.blogData}</p>
         </div>
         : <div className='p-[50px]'><Player src={animation} loop autoplay/></div>
       }
